@@ -233,3 +233,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 "# samcovid_AIBD" 
 "# backoffice_bgdigit" 
 "# api_orange_money_backoffice" 
+# partenaire
